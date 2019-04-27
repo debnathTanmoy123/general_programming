@@ -1,0 +1,50 @@
+
+===========================================NORMAL========================================================================
+1)special two digit
+2)greatest amon 3
+3)middle among 3
+4)sum of 1st n number
+5)multiplication table
+6)power
+7)Divided by 5 and 3 between 1 to n
+8)multiple of 7 between 1 to n
+9)leap year
+10)sum of multiplication
+11)Avg of even number btwn 1 to n
+12)count digit
+13)summ of digit
+14)reverse of number
+15)product of digit of a number
+16)how many even and how many odd digit are in a number
+17)palindrome number
+18)factorial
+19)strong number
+20)is armstong?
+21)1 to n armstrong no     X
+22)is Prime
+23)upto n prime number
+
+
+26)check fibonacci
+27)First n fibonacci
+===========================================CONVERSION========================================================================
+1)How many seted bits are there in a integer number
+2)conver dec to bin
+3)conver dec to octal
+4)conver decto hex
+5)bin to decimal
+
+
+
+
+=============================================ARRAY============================================================================
+1)Merge two array
+2)count how many prime nuber in an array
+3)Eliminate the array elemet with 1 if array size is even other wise by 0.
+4)Check the entered number is present or not in the array
+5)wap to reverse the array element
+6)biggest element in the array
+7)wap to insert an element in an existing array to a specified index
+8)wap to delete an element in an existing array to a specified index
+9)wap to insert an array in an existing array to a specified index
+10)

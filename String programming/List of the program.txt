@@ -1,0 +1,8 @@
+1)Convert a number to sentence
+2)count upper case,lower case,vowel,consonent,digit,special character in a string
+3)Calculate the sum of digits in a string
+4)calculate the sum of number in a String
+5)Check the string is palindrome or not without reverse
+6)convert all the character in lower case
+7)convert all the character in upper case
+8)Reverse a string

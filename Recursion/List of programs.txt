@@ -7,3 +7,9 @@
 7)um of array element in other way
 8)Sum of digit
 9)method to search specified element in array if it is there then return index otherwise -1
+10)check a number is prime or not
+11)power of n to the power p
+12)check a number is perfect or not
+13)calculate the GCD of two number
+14)Check a string is palindrome or not
+15)Solve towe of hanoi
